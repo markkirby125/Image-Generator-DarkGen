@@ -1,0 +1,5 @@
+{
+  "name": "Image Generator - DarkGen Studio",
+  "description": "A professional, dark-themed interface for text-to-image generation powered by ModelsLab. Features history management, NSFW support, and advanced parameter controls.",
+  "requestFramePermissions": []
+}
