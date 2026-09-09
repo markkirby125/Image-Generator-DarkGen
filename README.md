@@ -1,6 +1,6 @@
 # DarkGen Studio: Image Generator
 
-A dark-themed text-to-image generation interface for the ModelsLab API. DarkGen exposes direct parameter controls, saves prompt history locally, and applies preset style modifiers.
+**ModelsLab text-to-image generation interface** featuring a dark-themed UI. DarkGen exposes direct parameter controls, saves prompt history locally, and applies preset style modifiers.
 
 ## Features
 - **ModelsLab API**: Direct client-to-API text-to-image generation.
