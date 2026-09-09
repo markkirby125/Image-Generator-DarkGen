@@ -1,9 +1,9 @@
 # DarkGen Studio: Image Generator
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![React](https://img.shields.io/badge/React-20232A?style=flat# DarkGen Studio: Image Generatorlogo=react# DarkGen Studio: Image GeneratorlogoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat# DarkGen Studio: Image Generatorlogo=typescript# DarkGen Studio: Image GeneratorlogoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat# DarkGen Studio: Image Generatorlogo=vite# DarkGen Studio: Image GeneratorlogoColor=FFD62E)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>](https://img.shields.io/badge/React-20232A?style=flat# DarkGen Studio: Image Generatorlogo=react# DarkGen Studio: Image GeneratorlogoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat# DarkGen Studio: Image Generatorlogo=typescript# DarkGen Studio: Image GeneratorlogoColor=white) ![<a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">Vite</a>](https://img.shields.io/badge/Vite-B73BFE?style=flat# DarkGen Studio: Image Generatorlogo=vite# DarkGen Studio: Image GeneratorlogoColor=FFD62E)
 
 
-**ModelsLab text-to-image generation interface** featuring a dark-themed UI. DarkGen exposes direct parameter controls, saves prompt history locally, and applies preset style modifiers.
+**<a href="https://modelslab.com/docs" target="_blank" rel="noopener noreferrer">ModelsLab</a> text-to-image generation interface** featuring a dark-themed UI. DarkGen exposes direct parameter controls, saves prompt history locally, and applies preset style modifiers.
 
 ## Features
 - **ModelsLab API**: Direct client-to-API text-to-image generation.
