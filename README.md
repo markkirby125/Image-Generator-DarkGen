@@ -1,13 +1,13 @@
 # DarkGen Studio: Image Generator
 
-A professional, dark-themed text-to-image generation application powered by the ModelsLab API. Designed for power users, DarkGen provides advanced parameter controls, local history management, and extensive prompt styling modifiers.
+A dark-themed text-to-image generation interface for the ModelsLab API. DarkGen exposes direct parameter controls, saves prompt history locally, and applies preset style modifiers.
 
 ## Features
-- **ModelsLab Integration**: Directly interfaces with ModelsLab API for high-quality, fast text-to-image generation.
-- **Advanced Controls**: Fine-tune guidance scale, inference steps, sampling methods, and negative prompts.
-- **Style Modifiers**: One-click injection of complex artistic styles and aesthetic modifiers.
-- **Local History**: Your generated images and prompts are securely saved in your browser's local storage.
-- **Client-Side API Key Security**: Enter your API key directly in the UI. Keys are stored locally and never touch a backend server.
+- **ModelsLab API**: Direct client-to-API text-to-image generation.
+- **Granular Controls**: Adjust guidance scale, inference steps, sampling methods, and negative prompts.
+- **Style Modifiers**: Append predefined artistic style text arrays to your prompts.
+- **Local Storage**: Images and prompts save directly to your browser's local storage.
+- **API Key Handling**: Enter your API key in the UI. Keys remain local and do not route through an intermediary backend.
 
 ## Tech Stack
 - React 19
