@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# DarkGen Studio: Image Generator
 
-# Run and deploy your AI Studio app
+A professional, dark-themed text-to-image generation application powered by the ModelsLab API. Designed for power users, DarkGen provides advanced parameter controls, local history management, and extensive prompt styling modifiers.
 
-This contains everything you need to run your app locally.
+## Features
+- **ModelsLab Integration**: Directly interfaces with ModelsLab API for high-quality, fast text-to-image generation.
+- **Advanced Controls**: Fine-tune guidance scale, inference steps, sampling methods, and negative prompts.
+- **Style Modifiers**: One-click injection of complex artistic styles and aesthetic modifiers.
+- **Local History**: Your generated images and prompts are securely saved in your browser's local storage.
+- **Client-Side API Key Security**: Enter your API key directly in the UI. Keys are stored locally and never touch a backend server.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Ycco6cgd4-5z52hc0e8QImQXA4RWV8_y
+## Tech Stack
+- React 19
+- Vite
+- Tailwind CSS
+- Lucide React Icons
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/markkirby125/Image-Generator-DarkGen.git
+   cd Image-Generator-DarkGen
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open the application and enter your ModelsLab API Key when prompted.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## License
+MIT License
